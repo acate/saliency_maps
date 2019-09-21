@@ -1,0 +1,111 @@
+**BACKGROUND**
+
+A recentadvance in the study of visual attention has been the development of computer algorithms for automatic detection of visual salience in images. These algorithms typically work by detecting the presence of basic-level visual features of the human visual system (e.g. edge orientation, brightness and color) and then identifying spatial regions that hold singleton features. 
+
+This assignment asks you to submit two images: an original image and one that you have marked to show which regions you think are salient. A simple way to think about saliency is to think about which parts of an image would "catch your eye" and prompt you to look at them by making an eye movement. 
+
+Your instructor will run all of the original (unmarked) images through at least one well-known visual saliency algorithm: the Itti-Koch-Niebur saliency map algorithm. You can read about that here:[[http://ilab.usc.edu/bu/theory/index.html|http://ilab.usc.edu/bu/theory/index.html]]
+
+Your instructor will then show examples of the output of the algorithm (which are images) in class. We will consider how similar the output of the algorithm was to the human judgments that everyone made by marking their images. 
+
+
+
+**ESTIMATED TIME REQUIRED**
+
+The "nuts and bolts" activities for this assignment were designed to take about **10 minutes**. 
+
+These include saving copies of image files, marking one of them with ovals using an online photo editing website, and uploading images to Canvas.
+
+Hopefully this assignment will be more enlighteningif you use animage that interests you and that makes you feel curious and uncertain about which regions the saliency algorithm will detect as salient. Finding an image like that could take a little while, but don't put time into it unless it's enjoyable. When it comes down to it, any image will do.
+
+
+
+(NOTE: I hope everyone will submit images for this assignment. However, the principle behind all of our "in-class" assignments is still in effect: you will be graded based on participation and not on content. Participation includes reading about the background of this assignment. If you choose not to submit images for this assignment, you will receive credit for it by typing a brief message in the text input field that should be available after you click the Canvas submit button.)
+
+
+
+**INSTRUCTIONS**
+
+**1) Get an image file.**
+
+Find an image file of a picture that you like and save it to your computer.
+
+**Guidelines:**
+
+  * Images should be photographs that were taken of things in the real world. (The saliency algorithm was designed to analyze those.)
+  * Color images are better (again, because the algorithm analyzes color), but not strictly required.
+  * Medium-sized (around 500 x 500 pixels) images will be easier to mark and view. Images that are significantly smaller will contain less information for the algorithm to analyze.
+  * The subject of your image should be one that is interesting to you.
+  * Ideally, you should feel a little uncertain (or at least curious) about which regions of your image count as "salient" in the sense of "serve as exogenous cues for selective attention."
+  * **Youmust make an honest effort to pick a subject that will not offend anyone in class. Specifically, do not submit images with violent or sexual subjects, including any kind of nude body. **
+
+This last guideline is important because it is important to me, your instructor, that our class embodies the Virginia Tech Principles of Community. I think that a valuable feature of the Principles of Community is their focus on civility. To me, civility in the classroom means recognizing that there is always more than one way to communicate and explore the same knowledge, and that it is always possible to chose a way that respects the community without diminishing learning. 
+
+I decided that it was worth including the guideline about nudity because I predict that many students will be rightly curious about how visual salience interacts with our perception of bodies. I think that would be a fascinating idea to investigate, but also that there are many ways in which displaying images of nude bodies could go horribly wrong in class. I will be happy to assist anyone who would like to apply the saliency algorithm to other images outside of class.
+
+
+
+**2) Mark the salient regions on your image.**
+
+Use simple photo editing software to mark the salient regions of your image.
+
+Here are instructions for using a simple online photo editor that will run in your Internet browser. If you prefer, you may use other photo editing software (e.g. Photoshop)  just do the same things that are described in these instructions.
+
+**A) Open the photo editor and upload your image.**
+
+Go to [[http://www194.lunapic.com/editor/?action=draw&tool=ellipse|http://www194.lunapic.com/editor/?action=draw&tool=ellipse]]
+
+Click the "Browse" button that appears under the text "Upload a photo to work with." Ifyou see a new web page with an "Edit a Photo" graphic, clock on the blue "BROWSE" graphic.
+
+{{:./media/image1.png?666x425|tart_annot_sm.png}}
+
+
+
+Select the image file that you saved. Your image should appear on the webpage.
+
+
+
+**B) Mark the salient regions of your image with purple ellipses.**
+
+i) Activate the ellipse drawing tool and use the default purple color.
+
+Click on the tiny circle icon at the lower left edge of the web page.
+
+{{:./media/image2.png?533x676|rawingTool_annot_sm.png}}
+
+ii) Draw ellipses
+
+Using the mouse, click and drag on the salient region(s) of your image to draw an ellipse that contains the salient region. If the ellipse is not in the correct place, you will have to click the "Clear" button immediately above the image, and then repeat. Once the ellipse looks correct, you'll have to click the "Apply" button to make sure that the ellipse stays on your image. Also, the website only allows you to draw one ellipse at a time. That is, if you want to draw more than one ellipse you will have to click "Apply" after you draw each ellipse.
+
+{{:./media/image3.png?666x564|llipse1_annot_sm.png}}
+
+If you want to start over from scratch after having drawn an ellipse, you'll have to click the "Undo this effect" text link, after which you can click on the original version of your image that will be shown as a thumbnail.
+
+iii) Save the marked image
+
+Afteryou have marked all of the salient regions with ellipses, save your image by clicking on the "Save" text link that appears toward the bottom of the webpage. If this doesn't automatically open a box where you can type the name of your image, you might have to select "Save File" in a dialog box and click "OK" instead. In some browsers, this will save your image automatically to a "Downloads" folder under a default name like "imageedit_2_[some numbers].gif"
+
+{{:./media/image4.png?533x418|ave_annot_sm.png}}
+
+I located my image file by clicking on the "Tools" menu and selecting "Downloads" (in Firefox) or by opening the menu bar and selecting "Downloads" (in Chrome).
+
+**4) Rename your image files before submitting them as your assignment.**
+
+You should now have two image files: the image file you started with, and a copy of it that you have marked with ellipses.
+
+Change the name of your original image file (of course, make a copy first if you want to keep the original name). Change the name to be one word that summarizes the subject of the image, e.g. "cat." The filename should look like this: "cat.jpg"
+
+DO NOT CHANGE THE FILE EXTENSION.
+
+Change the name of the marked copy of the file so that it has the same name as the first file, but with a "2" in it. Like this: "cat2.jpg"
+
+MAKE SURE THERE ARE NO SPACES IN THE FILE NAMES
+
+**5) Upload both images to finish the assignment**
+
+Click whichever buttons or links that Canvas put on this web page, and upload both images. 
+
+That's it. 
+
+
+
